@@ -16,5 +16,6 @@
     <depends optional="true" config-file="projectenv-pycharm.xml">com.intellij.modules.python</depends>
     <depends optional="true" config-file="projectenv-java.xml">com.intellij.java</depends>
     <depends optional="true" config-file="projectenv-go.xml">org.jetbrains.plugins.go</depends>
+    <depends optional="true" config-file="projectenv-sbt.xml">org.intellij.scala</depends>
 
 </idea-plugin>
